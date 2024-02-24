@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ThiagoSilvaLima/ThiagoSilvaLIma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Olá, meu nome é Thiago da Silva Lima
+- 👀 Eu amo Java
+- 🌱 Cursando Tecnologia em Analise e Desenvolvimento de Sistemas
+- 📫 Como me encontrar:
+      
+      Email:DevThiagoSilva@outlook.com
+      Cell:(18) 99662-8914
+  
+🧑🏿 Sobre mim: Meu nome é Thiago e tenho 18 anos. Sou um aficionado por Java e desenvolvo aplicações web com HTML e CSS. Moro em Adamantina, uma cidade do interior paulista.
+    
+    Estou ansioso para poder trabalhar com vocês, Até mais 😁😉
+      
