@@ -1,6 +1,6 @@
-### Hi there 👋
+### OLá 👋
 
-- 👋 Olá, meu nome é Thiago da Silva Lima
+- 👋 Prazer, meu nome é Thiago
 - 👀 Eu amo Java
 - 🌱 Cursando Tecnologia em Analise e Desenvolvimento de Sistemas
 - 📫 Como me encontrar:
