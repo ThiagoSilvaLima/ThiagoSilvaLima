@@ -5,8 +5,8 @@
 - 🌱 Cursando Tecnologia em Analise e Desenvolvimento de Sistemas
 - 🧑🏿 Sobre mim:
   
-        Prazer, meu nome é Thiago, sou um aficionado por Java e QA, e neste github você vai encontrar alguns de meus projetos de sites e automações de
-        testes. Sintam-se a vontade para estar conhecendo um pouco dos meus aprendizados que venho trazendo por aqui.
+        Prazer, meu nome é Thiago, sou um aficionado por Java e QA. Neste github você vai encontrar alguns de meus projetos pessoas.
+        Sintam-se a vontade para estar conhecendo um pouco dos meus aprendizados que venho trazendo por aqui.
         Amo rock, Guns n' roses e SAOD é vida.
         De Adamantina, uma cidade do interior paulista.
 ##
