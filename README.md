@@ -1,9 +1,9 @@
 # ✌️ Prazer! Meu nome é Thiago
-- 👀 Apaixonado pelo backend
+- 👀 Apaixonado pelo backend e por qualidade de software
 - 🌱 Cursando Tecnologia em Analise e Desenvolvimento de Sistemas
 - 🙋 Sobre mim:
 
-    Olá, meu nome é Thiago. Nascido no interior de São Paulo, na cidade de campinas, e criado na cidade de Adamantina, também no interior de São Paulo 🤠. Desde muito Jovem apaixonado por tecnologia, hoje tornando a mesma minha fonte de renda, além de minha maior paixão.
+    Olá, meu nome é Thiago. Nasci no interior de São Paulo, na cidade de Campinas, e fui criado em Adamantina, também no interior do estado 🤠. Desde jovem, sou apaixonado por tecnologia, que hoje não é apenas minha maior paixão, mas também minha fonte de renda.
 
 ## 📱Me encontre
 
@@ -25,6 +25,7 @@
 ### Front-end
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-green?style=for-the-badge&logo=thymeleaf&color=005f0f)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Dados
@@ -35,6 +36,4 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## Github Status
-[![card](https://github-readme-stats.vercel.app/api?username=ThiagoSilvaLima&theme=Tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaLima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
